@@ -1,0 +1,19 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS	EMPTYPE	STATHOURS
+
+TIMEACT	04/04/2025	Default Job	Arqam Ahmed Memon{13294}	ST Rate	Regular Pay	45.67			Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Arqam Ahmed Memon{13294}	PH Hours	Paid Hours	6.0			Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Buta Singh Sandhu{12338}	ST Rate	Regular Pay	46.25			Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Buta Singh Sandhu{12338}	PH Hours	Paid Hours	7.0			Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Gurwinder Singh{12491}	ST Rate	Regular Pay	46.5			Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Gurwinder Singh{12491}	PH Hours	Paid Hours	6.0			Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Harshdeep Kaur Dhillon{12212}	ST Rate	Regular Pay	79.0			Y	1	SD	0
+TIMEACT	04/04/2025	Default Job	Harshdeep Kaur Dhillon{12212}	PH Hours	Paid Hours	3.0			Y	1	SD	0
+TIMEACT	04/04/2025	Default Job	L A Sarmiento{11839}	ST Rate	Regular Pay	48			Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Prernna Prernna{12132}	ST Rate	Regular Pay	24.0			Y	1	0	0
+TIMEACT	04/04/2025	Default Job	Prernna Prernna{12132}	PH Hours	Paid Hours	2.0			Y	1	0	0
+TIMEACT	04/04/2025	Default Job	Qasim Muhammad{12034}	ST Rate	Regular Pay	66.25			Y	1	0	0
+TIMEACT	04/04/2025	Default Job	Qasim Muhammad{12034}	PH Hours	Paid Hours	4.0			Y	1	0	0
+TIMEACT	04/04/2025	Default Job	Rajanpreet Kaur{14056}	ST Rate	Regular Pay	35.5			Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Rajanpreet Kaur{14056}	PH Hours	Paid Hours	7.0			Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Sukhmandeep Singh{10640}	ST Rate	Regular Pay	76.0			Y	1	0	0
+TIMEACT	04/04/2025	Default Job	Sukhmandeep Singh{10640}	PH Hours	Paid Hours	5.0			Y	1	0	0

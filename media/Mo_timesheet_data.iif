@@ -1,0 +1,12 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS	EMPTYPE	STATHOURS
+
+TIMEACT	04/04/2025	Default Job	Arqam Ahmed Memon{13294}	ST Rate	Regular Pay	45.67		EMP_ID:13294	Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Arqam Ahmed Memon{13294}	PH Hours	Paid Hours	6.0		EMP_ID:13294	Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Buta Singh Sandhu{12338}	ST Rate	Regular Pay	46.25		EMP_ID:12338	Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Buta Singh Sandhu{12338}	PH Hours	Paid Hours	7.0		EMP_ID:12338	Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Gurwinder Singh{12491}	ST Rate	Regular Pay	46.5		EMP_ID:12491	Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Gurwinder Singh{12491}	PH Hours	Paid Hours	6.0		EMP_ID:12491	Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	L A Sarmiento{11839}	ST Rate	Regular Pay	48		EMP_ID:11839	Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Prernna Prernna{12132}	ST Rate	Regular Pay	24.0		EMP_ID:12132	Y	1	0	0
+TIMEACT	04/04/2025	Default Job	Rajanpreet Kaur{14056}	ST Rate	Regular Pay	35.5		EMP_ID:14056	Y	1	IS	0
+TIMEACT	04/04/2025	Default Job	Rajanpreet Kaur{14056}	PH Hours	Paid Hours	7.0		EMP_ID:14056	Y	1	IS	0
