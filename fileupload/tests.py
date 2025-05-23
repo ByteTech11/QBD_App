@@ -27,3 +27,4 @@ class DocumentUploadTestCase(TestCase):
         large_file = SimpleUploadedFile("large_file.txt", b"A" * (6 * 1024 * 1024), content_type="text/plain")
         response = self.client.post('/api/documents/', {'title': 'Large File', 'file': large_file})
         self.assertEqual(response.status_code, 400)
+

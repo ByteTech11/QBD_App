@@ -7,6 +7,7 @@ router = DefaultRouter()
 router.register(r'documents', DocumentViewSet)
 
 urlpatterns = [
-    path('api/', include(router.urls)),
+   path('api/', include(router.urls)),
 
 ]
+

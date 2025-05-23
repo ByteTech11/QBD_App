@@ -1,0 +1,10 @@
+{% extends "admin/change_list.html" %}
+{% block object-tools %}
+    <div class="object-tools">
+        <ul class="object-tools">
+            <li>
+                <a href="{% url 'admin:upload-multiple-excel' %}" class="addlink">Upload Multiple Excel Files</a>
+            </li>
+        </ul>
+    </div>
+{% endblock %}

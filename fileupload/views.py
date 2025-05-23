@@ -1,5 +1,6 @@
 from rest_framework import viewsets
 from rest_framework.response import Response
+from django.http import HttpResponse
 from rest_framework.parsers import MultiPartParser, FormParser
 from .models import Document
 from .serializers import DocumentSerializer
@@ -22,30 +23,6 @@ class DocumentViewSet(viewsets.ModelViewSet):
             return response
         else:
             return Response({"error": "Invalid file type. Please upload an Excel file."}, status=400)
-# DONT TRY IT WITHOUT PERMISSION BY ME AYYAZ
-##from django.http import HttpResponse, FileResponse #####
-##from .models import Document
-
-## View for downloading a file based on its ID
-##def download_file(request, file_id):
-#    try:
-        # Fetch the document object by its ID
-#        document = Document.objects.get(id=file_id)
         
-        # Return the file as an attachment
-#       response = FileResponse(document.file.open(), content_type='application/octet-stream')
-#        response['Content-Disposition'] = f'attachment; filename={document.file.name}'
-        
-#        return response
-#    except Document.DoesNotExist:
-##        return HttpResponse("File not found", status=404) ###
-
-from django.http import HttpResponse
-
 def home(request):
     return HttpResponse("Hello Wellcome To The Django_App !")
-
-
-    
-
-

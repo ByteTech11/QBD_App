@@ -57,7 +57,7 @@ def convert_excel_to_iif(excel_file, output_iif_path):
         stat_hours = row['STHOURS'] if pd.notna(row['STHOURS']) else 0  
         ph_hours = row['PH Hours'] if pd.notna(row['PH Hours']) else 0 
         proj = ""
-        note = stat_hours if stat_hours > 0 else 0  
+        note = ""  
         xfertopayroll = "Y"
         billingstatus = "1"
 
@@ -65,11 +65,11 @@ def convert_excel_to_iif(excel_file, output_iif_path):
             if duration > 48:
                 duration = 48  
         elif emp_type == 'SD': 
-            if duration > 80:
-                duration = 80  
+            if duration > 88:
+                duration = 88  
         else:
-            if duration > 80:
-                duration = 80
+            if duration > 88:
+                duration = 88
 
         if duration > 0:
             iif_row_regular = f"{timeact}\t{date}\t{job}\t{emp}\t{item}\t{pitem}\t{duration}\t{proj}\t{note}\t{xfertopayroll}\t{billingstatus}"
