@@ -1,0 +1,14 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	06/13/2025	Default Job	Arshdeep Singh Mohie{12901}	ST Rate	Regular Pay	76.91		E_NUM:12901,EMP_TYPE:ON	Y	1
+TIMEACT	06/13/2025	Default Job	Gary Jay Abuan{13508}	ST Rate	Regular Pay	80.25		E_NUM:13508,EMP_TYPE:ON	Y	1
+TIMEACT	06/13/2025	Default Job	Jobanpreet Singh{13395}	ST Rate	Regular Pay	44.17		E_NUM:13395,EMP_TYPE:IS	Y	1
+TIMEACT	06/13/2025	Default Job	Kapil Verma{12894}	ST Rate	Regular Pay	43.5		E_NUM:12894,EMP_TYPE:IS	Y	1
+TIMEACT	06/13/2025	Default Job	Khushpreet Kaur{14354}	ST Rate	Regular Pay	48		E_NUM:14354,EMP_TYPE:IS	Y	1
+TIMEACT	06/13/2025	Default Job	Komalpreet Kaur{13290}	ST Rate	Regular Pay	48.0		E_NUM:13290,EMP_TYPE:IS	Y	1
+TIMEACT	06/13/2025	Default Job	Ma Cristhel Gemanel{12478}	ST Rate	Regular Pay	88		E_NUM:12478,EMP_TYPE:ON	Y	1
+TIMEACT	06/13/2025	Default Job	Mary Anne Manalang{12479}	ST Rate	Regular Pay	87.32		E_NUM:12479,EMP_TYPE:ON	Y	1
+TIMEACT	06/13/2025	Default Job	Mirza Abdul Waseem{13606}	ST Rate	Regular Pay	43.5		E_NUM:13606,EMP_TYPE:ON	Y	1
+TIMEACT	06/13/2025	Default Job	Navjot Singh{14138}	ST Rate	Regular Pay	46.41		E_NUM:14138,EMP_TYPE:IS	Y	1
+TIMEACT	06/13/2025	Default Job	Simarjit Singh{8680}	ST Rate	Regular Pay	88		E_NUM:8680,EMP_TYPE:SD	Y	1
+TIMEACT	06/13/2025	Default Job	Sukhmanjeet Kaur{12382}	ST Rate	Regular Pay	85.91		E_NUM:12382,EMP_TYPE:ON	Y	1

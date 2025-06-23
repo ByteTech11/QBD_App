@@ -1,5 +1,0 @@
-!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
-
-TIMEACT	04/08/2025	Default Job	Arqam Ahmed Memon	ST Rate	Regular Pay	48			Y	1
-TIMEACT	04/08/2025	Default Job	Arqam Ahmed Memon	PH Hours	Public Holidays Hours	6			Y	1
-TIMEACT	04/08/2025	Default Job	Arqam Ahmed Memon	STAT Hours	Statutory Pay	2			Y	1

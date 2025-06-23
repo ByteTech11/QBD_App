@@ -1,12 +1,13 @@
 from django.contrib import admin
 from django.urls import path
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 from django import forms
 from django.http import FileResponse, HttpResponseRedirect
 from django.contrib import messages
 from zipfile import ZipFile
 import os
 import tempfile
+
 from .models import Document
 from .iif_converter import convert_excel_to_iif
 from django.forms.widgets import ClearableFileInput
@@ -43,11 +44,12 @@ class DocumentAdmin(admin.ModelAdmin):
     change_list_template = "admin/upload_button.html"
 
     def save_model(self, request, obj, form, change):
-        """
-        Called when saving a Document in admin (single upload).
-        This will generate the .iif file right after the Excel file is saved.
-        """
-        super().save_model(request, obj, form, change) 
+        if not obj.title and obj.file:
+            filename = obj.file.name.split('/')[-1]
+            title_without_ext = filename.rsplit('.', 1)[0]
+            obj.title = title_without_ext
+
+        super().save_model(request, obj, form, change)
 
         input_path = obj.file.path
         output_path = os.path.splitext(input_path)[0] + '.iif'
@@ -55,9 +57,17 @@ class DocumentAdmin(admin.ModelAdmin):
         result = convert_excel_to_iif(input_path, output_path)
 
         if "Error" in result:
-            self.message_user(request, f"IIF file generation failed for {obj.title or obj.file.name}.", level=messages.ERROR)
+            self.message_user(
+                request,
+                f"IIF file generation failed for {obj.title or obj.file.name}: {result}",
+                level=messages.ERROR
+            )
         else:
-            self.message_user(request, f"IIF file generated for {obj.title or obj.file.name}.", level=messages.SUCCESS)
+            self.message_user(
+                request,
+                f"IIF file generated for {obj.title or obj.file.name}.",
+                level=messages.SUCCESS
+            )
 
     @admin.action(description='Download IIF files')
     def download_iif_files(self, request, queryset):
@@ -97,6 +107,11 @@ class DocumentAdmin(admin.ModelAdmin):
                 self.admin_site.admin_view(self.upload_multiple_view),
                 name='upload-multiple-excel'
             ),
+            path(
+                'download-iif/<int:document_id>/',
+                self.admin_site.admin_view(self.download_iif),
+                name='download-iif-file'
+            ),
         ]
         return custom_urls + urls
 
@@ -117,7 +132,7 @@ class DocumentAdmin(admin.ModelAdmin):
                         if "Error" not in result:
                             zipf.write(output_path, arcname=os.path.basename(output_path))
                         else:
-                            self.message_user(request, f"IIF file not found for {f.name}.", level=messages.WARNING)
+                            self.message_user(request, f"IIF file generation failed for {f.name}.", level=messages.WARNING)
 
                 zip_temp.seek(0)
                 return FileResponse(zip_temp, as_attachment=True, filename="converted_iif_files.zip")
@@ -125,3 +140,15 @@ class DocumentAdmin(admin.ModelAdmin):
             form = MultiFileUploadForm()
 
         return render(request, 'admin/multi_upload_form.html', {'form': form})
+
+    def download_iif(self, request, document_id):
+        doc = get_object_or_404(Document, pk=document_id)
+        excel_path = doc.file.path
+        output_path = os.path.splitext(excel_path)[0] + '.iif'
+
+        result = convert_excel_to_iif(excel_path, output_path)
+        if "Error" in result:
+            self.message_user(request, f"IIF file generation failed: {result}", level=messages.ERROR)
+            return HttpResponseRedirect(request.META.get('HTTP_REFERER', '/admin/fileupload/document/'))
+
+        return FileResponse(open(output_path, 'rb'), as_attachment=True, filename=os.path.basename(output_path))

@@ -2,104 +2,108 @@ import pandas as pd
 from openpyxl import load_workbook
 from datetime import datetime, timedelta
 import re
+from openpyxl.utils import get_column_letter
 
 def convert_excel_to_iif(excel_file, output_iif_path):
+    def get_merged_cell_value(sheet, row, col):
+        cell_coord = f"{get_column_letter(col)}{row}"
+        for merged_range in sheet.merged_cells.ranges:
+            if cell_coord in merged_range:
+                min_col, min_row, max_col, max_row = merged_range.bounds
+                return sheet.cell(row=min_row, column=min_col).value
+        return sheet.cell(row=row, column=col).value
+
+    wb = load_workbook(excel_file, data_only=True)
+    sheet = wb['Sheet1']
+
+    emp_type_header_cell = get_merged_cell_value(sheet, 5, 12) 
+    print(f"DEBUG: Emp Type header from L5: {repr(emp_type_header_cell)}")
+
+    if emp_type_header_cell is not None:
+        full_header = str(emp_type_header_cell).strip().upper()
+        match = re.search(r'\b(SK|ON|IS)\b', full_header)
+        if match:
+            emp_type_header = match.group(1)
+        else:
+            emp_type_header = None
+    else:
+        emp_type_header = None
+
+    print(f"DEBUG: Extracted Emp Type header from L5: '{emp_type_header}'")
+
     try:
-        df = pd.read_excel(excel_file, engine='openpyxl', skiprows=12)
+        df = pd.read_excel(excel_file, engine='openpyxl', header=13, usecols="F:S")
     except Exception as e:
-        return f"Error reading the Excel file: {str(e)}"
+        raise RuntimeError(f"Error reading Excel file: {e}")
 
-    df.columns = df.columns.str.strip() 
+    df.columns = df.columns.str.strip().str.replace('\n', ' ').str.replace('\r', ' ')
+    df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
 
-    if 'STHOURS' not in df.columns:
-        df['STHOURS'] = df.get('Stat Hours', pd.Series([0] * len(df)))  
+    if 'Stat Hours' not in df.columns:
+        df['Stat Hours'] = 0
 
-    try:
-        wb = load_workbook(excel_file)
-        sheet = wb.active
-        date_from_excel = None
+    date_found = None
+    for col in range(1, sheet.max_column + 1):
+        val = sheet.cell(row=5, column=col).value
+        if isinstance(val, str):
+            matches = re.findall(r'\d{2}-[A-Za-z]{3}-\d{2,4}', val)
+            if len(matches) >= 2:
+                date_found = matches[1]
+                break
+            elif len(matches) == 1 and date_found is None:
+                date_found = matches[0]
 
-        for col in range(1, sheet.max_column + 1):
-            cell_value = sheet.cell(row=4, column=col).value
-            if isinstance(cell_value, str):
-                match = re.findall(r'(\d{2}-[A-Za-z]{3}-\d{2})', cell_value)  
-                if match and len(match) >= 2:
-                    date_from_excel = match[1]  
-                    break  
-        
-        if not date_from_excel:
-            raise ValueError("No valid second date found in row 4.")
+    if not date_found:
+        raise RuntimeError("No valid date found in row 5")
 
-        extracted_date = datetime.strptime(date_from_excel, '%d-%b-%y')  
-        
-        adjusted_date = extracted_date - timedelta(days=2)
+    extracted_date = datetime.strptime(date_found, '%d-%b-%y')
+    adjusted_date = extracted_date - timedelta(days=2)
+    formatted_date = adjusted_date.strftime('%m/%d/%Y')
 
-        formatted_date = adjusted_date.strftime('%m/%d/%Y') 
-    except Exception as e:
-        return f"Error extracting or adjusting the date: {str(e)}"
-
-    df_cleaned = df[['Employee', 'Emp\nNum', 'Emp Type', 'Reg Hours', 'Stat Hours', 'PH Hours', 'Total', 'Rate', 'STHOURS']]
-    df_cleaned = df_cleaned.dropna(subset=['Employee', 'Emp\nNum', 'Reg Hours', 'Total'])
+    df_cleaned = df.dropna(subset=['Employee', 'Emp Num'])
 
     iif_header = "!TIMEACT\tDATE\tJOB\tEMP\tITEM\tPITEM\tDURATION\tPROJ\tNOTE\tXFERTOPAYROLL\tBILLINGSTATUS\n"
     iif_data = [iif_header]
 
-    for _, row in df_cleaned.iterrows():
-        timeact = "TIMEACT"
-        date = formatted_date    
-        job = "Default Job"
-        emp = row['Employee']
-        emp_num = row['Emp\nNum'] 
-        emp_type = row['Emp Type'] if pd.notna(row['Emp Type']) else 0 
-        item = "ST Rate"  
-        pitem = "Regular Pay"
-        duration = row['Total'] if pd.notna(row['Total']) else row['Reg Hours']  
-        stat_hours = row['STHOURS'] if pd.notna(row['STHOURS']) else 0  
-        ph_hours = row['PH Hours'] if pd.notna(row['PH Hours']) else 0 
-        proj = ""
-        note = ""  
-        xfertopayroll = "Y"
-        billingstatus = "1"
+    max_hours_map = {'IS': 48, 'SK': 80, 'ON': 88}
+    default_max_hours = 88
 
-        if emp_type == 'IS': 
-            if duration > 48:
-                duration = 48  
-        elif emp_type == 'SD': 
-            if duration > 88:
-                duration = 88  
+    for idx, row in df_cleaned.iterrows():
+        emp_name = row['Employee']
+        emp_num = str(int(row['Emp Num'])) if not pd.isna(row['Emp Num']) else ""
+        emp_type_raw = row['Emp Type'] if pd.notna(row['Emp Type']) else ""
+        if emp_type_raw.strip():
+            emp_type = emp_type_raw.strip().upper()
+            print(f"DEBUG: Row {idx} uses Emp Type from row: '{emp_type}'")
         else:
-            if duration > 88:
-                duration = 88
+            emp_type = emp_type_header if emp_type_header else 'ON'
+            print(f"DEBUG: Row {idx} Emp Type missing, using header value: '{emp_type}'")
+        emp = f"{emp_name}{{{emp_num}}}"
 
-        if duration > 0:
-            iif_row_regular = f"{timeact}\t{date}\t{job}\t{emp}\t{item}\t{pitem}\t{duration}\t{proj}\t{note}\t{xfertopayroll}\t{billingstatus}"
-            iif_data.append(iif_row_regular)
 
+        reg_hours = row['Reg Hours'] if 'Reg Hours' in row and pd.notna(row['Reg Hours']) else 0
+        stat_hours = row['Stat Hours'] if pd.notna(row['Stat Hours']) else 0
+        ph_hours = row['PH Hours'] if 'PH Hours' in row and pd.notna(row['PH Hours']) else 0
+
+        max_hours = max_hours_map.get(emp_type, default_max_hours)
+        if reg_hours > max_hours:
+            reg_hours = max_hours
+        note = f"E_NUM:{emp_num},EMP_TYPE:{emp_type}"
+        if reg_hours > 0:
+            iif_data.append(
+                f"TIMEACT\t{formatted_date}\tDefault Job\t{emp}\tST Rate\tRegular Pay\t{reg_hours}\t\t{note}\tY\t1"
+            )
         if ph_hours > 0:
-            item = "PH Hours"  
-            pitem = "Public Holidays Hours"
-            iif_row_ph = f"{timeact}\t{date}\t{job}\t{emp}\t{item}\t{pitem}\t{ph_hours}\t{proj}\t{note}\t{xfertopayroll}\t{billingstatus}"
-            iif_data.append(iif_row_ph)
-
+            iif_data.append(
+                f"TIMEACT\t{formatted_date}\tDefault Job\t{emp}\tPH Hours\tPublic Holiday\t{ph_hours}\t\t{note}\tY\t1"
+            )
         if stat_hours > 0:
-            item = "STAT Hours"  
-            pitem = "Statutory Pay"
-            iif_row_stat = f"{timeact}\t{date}\t{job}\t{emp}\t{item}\t{pitem}\t{stat_hours}\t{proj}\t{note}\t{xfertopayroll}\t{billingstatus}"
-            iif_data.append(iif_row_stat)
-
+            iif_data.append(
+                f"TIMEACT\t{formatted_date}\tDefault Job\t{emp}\tSTAT Hours\tStat Holiday\t{stat_hours}\t\t{note}\tY\t1"
+            )
     iif_content = "\n".join(iif_data)
 
-    try:
-        with open(output_iif_path, 'w') as iif_file:
-            iif_file.write(iif_content)
-        print(f"IIF file successfully created: {output_iif_path}")
-    except Exception as e:
-        return f"Error saving the IIF file: {str(e)}"
-
-    return iif_content
-
-
-excel_file_path = '/mnt/data/Your_Excel_File.xlsx'  
-output_iif_path = '/mnt/data/output_file.iif' 
-
-convert_excel_to_iif(excel_file_path, output_iif_path)
+    with open(output_iif_path, 'w') as f:
+        f.write(iif_content)
+    print(f"IIF file successfully created: {output_iif_path}")
+    return output_iif_path
