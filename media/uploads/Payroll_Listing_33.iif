@@ -1,0 +1,22 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Arshdeep Singh{12039}	ST Rate	Regular Pay	61.88		E_NUM:12039,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Arshdeep Singh{12039}	PH Hours	Public Holiday	6.4		E_NUM:12039,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Arshdeep Singh{12039}	STAT Hours	Stat Day Worked	4.5		E_NUM:12039,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Auzair Mohammed{11928}	ST Rate	Regular Pay	7.0		E_NUM:11928,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Auzair Mohammed{11928}	PH Hours	Public Holiday	8.9		E_NUM:11928,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ghizal Noori{14441}	ST Rate	Regular Pay	3.0		E_NUM:14441,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ishni Amandi Wickramaratne{14139}	ST Rate	Regular Pay	66.98		E_NUM:14139,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ishni Amandi Wickramaratne{14139}	PH Hours	Public Holiday	7.6		E_NUM:14139,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Johns Mathew{12066}	ST Rate	Regular Pay	88		E_NUM:12066,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Johns Mathew{12066}	PH Hours	Public Holiday	10.9		E_NUM:12066,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Joyal Jose{13279}	ST Rate	Regular Pay	42.0		E_NUM:13279,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Joyal Jose{13279}	PH Hours	Public Holiday	4.8		E_NUM:13279,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Kshitiz Pal{14041}	ST Rate	Regular Pay	68.42		E_NUM:14041,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Kshitiz Pal{14041}	PH Hours	Public Holiday	6.3		E_NUM:14041,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Kshitiz Pal{14041}	STAT Hours	Stat Day Worked	7.5		E_NUM:14041,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Madiha Tashnim Dola{14438}	ST Rate	Regular Pay	2.98		E_NUM:14438,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Noorya Meraj{14148}	ST Rate	Regular Pay	52.48		E_NUM:14148,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Noorya Meraj{14148}	PH Hours	Public Holiday	4.3		E_NUM:14148,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Wali Shah{5391}	ST Rate	Regular Pay	88		E_NUM:5391,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Wali Shah{5391}	PH Hours	Public Holiday	8.5		E_NUM:5391,EMP_TYPE:ON	Y	1

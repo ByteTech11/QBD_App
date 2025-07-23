@@ -1,0 +1,23 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Ayman Hasan{14366}	ST Rate	Regular Pay	11.0		E_NUM:14366,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ayman Hasan{14366}	PH Hours	Public Holiday	1.7		E_NUM:14366,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Dhaval Upadhyay{11801}	ST Rate	Regular Pay	72.92		E_NUM:11801,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Dhaval Upadhyay{11801}	PH Hours	Public Holiday	8.3		E_NUM:11801,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Gursimran Kaur{12171}	ST Rate	Regular Pay	88		E_NUM:12171,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Gursimran Kaur{12171}	PH Hours	Public Holiday	9.0		E_NUM:12171,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Gursimran Kaur{12171}	STAT Hours	Stat Day Worked	4.5		E_NUM:12171,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Harmandeep Kaur{12998}	ST Rate	Regular Pay	31.0		E_NUM:12998,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Harmandeep Kaur{12998}	PH Hours	Public Holiday	9.8		E_NUM:12998,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Harmandeep Kaur{12998}	STAT Hours	Stat Day Worked	7.25		E_NUM:12998,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Maninder Singh{12643}	ST Rate	Regular Pay	81.31		E_NUM:12643,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Maninder Singh{12643}	PH Hours	Public Holiday	5.8		E_NUM:12643,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Pooja Sharma{8970}	ST Rate	Regular Pay	21.2		E_NUM:8970,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Pooja Sharma{8970}	PH Hours	Public Holiday	3.2		E_NUM:8970,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rahul Babu{12311}	ST Rate	Regular Pay	8.5		E_NUM:12311,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rahul Babu{12311}	PH Hours	Public Holiday	2.1		E_NUM:12311,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ronit Choudhary{13717}	ST Rate	Regular Pay	23.5		E_NUM:13717,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ronit Choudhary{13717}	PH Hours	Public Holiday	8.7		E_NUM:13717,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ronit Choudhary{13717}	STAT Hours	Stat Day Worked	4.5		E_NUM:13717,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Venkata Naga Sai sumanth Ananthu{14373}	ST Rate	Regular Pay	4.5		E_NUM:14373,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Venkata Naga Sai sumanth Ananthu{14373}	PH Hours	Public Holiday	0.7		E_NUM:14373,EMP_TYPE:ON	Y	1

@@ -1,0 +1,39 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Arshpreet Kaur Arshpreet Kaur{14059}	ST Rate	Regular Pay	78.34		E_NUM:14059,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Arshpreet Kaur Arshpreet Kaur{14059}	PH Hours	Public Holiday	7.7		E_NUM:14059,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Arshpreet Kaur Arshpreet Kaur{14059}	STAT Hours	Stat Day Worked	5.67		E_NUM:14059,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Charmaine Galbis{12433}	ST Rate	Regular Pay	56.34		E_NUM:12433,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Charmaine Galbis{12433}	PH Hours	Public Holiday	8.2		E_NUM:12433,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Charmaine Galbis{12433}	STAT Hours	Stat Day Worked	8.67		E_NUM:12433,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Devanshu Khanna{11308}	ST Rate	Regular Pay	59.33		E_NUM:11308,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Devanshu Khanna{11308}	PH Hours	Public Holiday	6.5		E_NUM:11308,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Devanshu Khanna{11308}	STAT Hours	Stat Day Worked	7.75		E_NUM:11308,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jagsir Singh{13500}	ST Rate	Regular Pay	20.5		E_NUM:13500,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jagsir Singh{13500}	PH Hours	Public Holiday	2.0		E_NUM:13500,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jashan Preet Singh{8002}	ST Rate	Regular Pay	76.17		E_NUM:8002,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jashan Preet Singh{8002}	PH Hours	Public Holiday	5.6		E_NUM:8002,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mary Kae Denice Ching{13817}	ST Rate	Regular Pay	78.0		E_NUM:13817,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mary Kae Denice Ching{13817}	PH Hours	Public Holiday	8.2		E_NUM:13817,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mary Kae Denice Ching{13817}	STAT Hours	Stat Day Worked	4.0		E_NUM:13817,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Navpreet Kaur{10610}	ST Rate	Regular Pay	72.33		E_NUM:10610,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Navpreet Kaur{10610}	PH Hours	Public Holiday	8.0		E_NUM:10610,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Navpreet Kaur{10610}	STAT Hours	Stat Day Worked	4.5		E_NUM:10610,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Pratik Shivach{12574}	ST Rate	Regular Pay	48.0		E_NUM:12574,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Pratik Shivach{12574}	PH Hours	Public Holiday	6.1		E_NUM:12574,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Pratik Shivach{12574}	STAT Hours	Stat Day Worked	8.67		E_NUM:12574,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Prativa Bhatta{12749}	ST Rate	Regular Pay	47.75		E_NUM:12749,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Prativa Bhatta{12749}	PH Hours	Public Holiday	5.6		E_NUM:12749,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Raghav Kamra{11757}	ST Rate	Regular Pay	29.0		E_NUM:11757,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Raghav Kamra{11757}	PH Hours	Public Holiday	3.2		E_NUM:11757,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rimpledeep Kaur{7539}	ST Rate	Regular Pay	71.0		E_NUM:7539,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rimpledeep Kaur{7539}	PH Hours	Public Holiday	8.2		E_NUM:7539,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rimpledeep Kaur{7539}	STAT Hours	Stat Day Worked	9.0		E_NUM:7539,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Shubham Pandit{11514}	ST Rate	Regular Pay	22.0		E_NUM:11514,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Shubham Pandit{11514}	PH Hours	Public Holiday	2.0		E_NUM:11514,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Subash Kantipudi{10752}	ST Rate	Regular Pay	76.0		E_NUM:10752,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Subash Kantipudi{10752}	PH Hours	Public Holiday	8.3		E_NUM:10752,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Subash Kantipudi{10752}	STAT Hours	Stat Day Worked	8.0		E_NUM:10752,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Upinderjit Kaur{12569}	ST Rate	Regular Pay	65.33		E_NUM:12569,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Upinderjit Kaur{12569}	PH Hours	Public Holiday	7.1		E_NUM:12569,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Upinderjit Kaur{12569}	STAT Hours	Stat Day Worked	4.5		E_NUM:12569,EMP_TYPE:ON	Y	1

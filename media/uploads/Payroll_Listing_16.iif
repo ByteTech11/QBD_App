@@ -1,0 +1,30 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Angeline Pagdanganan{11971}	ST Rate	Regular Pay	78.5		E_NUM:11971,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Angeline Pagdanganan{11971}	PH Hours	Public Holiday	8.0		E_NUM:11971,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Arielle Yna Andres{12280}	ST Rate	Regular Pay	52.0		E_NUM:12280,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Arielle Yna Andres{12280}	PH Hours	Public Holiday	3.1		E_NUM:12280,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Arielle Yna Andres{12280}	STAT Hours	Stat Day Worked	5.0		E_NUM:12280,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Buta Singh Sandhu{12338}	ST Rate	Regular Pay	72.74		E_NUM:12338,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Buta Singh Sandhu{12338}	PH Hours	Public Holiday	9.1		E_NUM:12338,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Buta Singh Sandhu{12338}	STAT Hours	Stat Day Worked	7.25		E_NUM:12338,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Gagandeep Kaur{12876}	ST Rate	Regular Pay	5.0		E_NUM:12876,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Gagandeep Kaur{12876}	PH Hours	Public Holiday	1.3		E_NUM:12876,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Jagdeep Singh{14058}	ST Rate	Regular Pay	50.33		E_NUM:14058,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Jagdeep Singh{14058}	PH Hours	Public Holiday	3.8		E_NUM:14058,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Jagdeep Singh{14058}	STAT Hours	Stat Day Worked	6.33		E_NUM:14058,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Lorie Brusas{12064}	ST Rate	Regular Pay	50.0		E_NUM:12064,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Lorie Brusas{12064}	PH Hours	Public Holiday	5.2		E_NUM:12064,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Lovepreet Singh Singh{11599}	ST Rate	Regular Pay	70.22		E_NUM:11599,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Lovepreet Singh Singh{11599}	PH Hours	Public Holiday	7.8		E_NUM:11599,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Samar Panwar{11112}	ST Rate	Regular Pay	68.65		E_NUM:11112,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Samar Panwar{11112}	PH Hours	Public Holiday	8.0		E_NUM:11112,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Samar Panwar{11112}	STAT Hours	Stat Day Worked	7.0		E_NUM:11112,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Samarjot Singh Ghotra{10907}	ST Rate	Regular Pay	45.49		E_NUM:10907,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Samarjot Singh Ghotra{10907}	PH Hours	Public Holiday	5.8		E_NUM:10907,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Samarjot Singh Ghotra{10907}	STAT Hours	Stat Day Worked	6.33		E_NUM:10907,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Saramay Calaud{14045}	ST Rate	Regular Pay	69.74		E_NUM:14045,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Saramay Calaud{14045}	PH Hours	Public Holiday	7.9		E_NUM:14045,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Saramay Calaud{14045}	STAT Hours	Stat Day Worked	10.0		E_NUM:14045,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Shamim Hasan{12375}	ST Rate	Regular Pay	63.5		E_NUM:12375,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Shamim Hasan{12375}	PH Hours	Public Holiday	7.2		E_NUM:12375,EMP_TYPE:SK	Y	1

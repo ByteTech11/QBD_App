@@ -1,0 +1,14 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Charanjeet Kaur{14285}	ST Rate	Regular Pay	61.92		E_NUM:14285,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Charanjeet Kaur{14285}	PH Hours	Public Holiday	6.7		E_NUM:14285,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Gaganpreet Kaur{12720}	ST Rate	Regular Pay	49.5		E_NUM:12720,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Gaganpreet Kaur{12720}	PH Hours	Public Holiday	1.7		E_NUM:12720,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Gunwant Kaur{14271}	ST Rate	Regular Pay	21.5		E_NUM:14271,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Gunwant Kaur{14271}	PH Hours	Public Holiday	8.6		E_NUM:14271,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Gunwant Kaur{14271}	STAT Hours	Stat Day Worked	5.75		E_NUM:14271,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Gurkirat Singh{14137}	ST Rate	Regular Pay	11.0		E_NUM:14137,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Gurkirat Singh{14137}	PH Hours	Public Holiday	0.5		E_NUM:14137,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Mandeep Kaur Na{14074}	ST Rate	Regular Pay	59.0		E_NUM:14074,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mandeep Kaur Na{14074}	PH Hours	Public Holiday	7.4		E_NUM:14074,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mandeep Kaur Na{14074}	STAT Hours	Stat Day Worked	8.0		E_NUM:14074,EMP_TYPE:ON	Y	1

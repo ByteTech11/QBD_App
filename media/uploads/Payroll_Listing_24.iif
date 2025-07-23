@@ -1,0 +1,42 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Aayush Sharma{12723}	ST Rate	Regular Pay	48.0		E_NUM:12723,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Aayush Sharma{12723}	PH Hours	Public Holiday	5.2		E_NUM:12723,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ashish Kalia{7282}	ST Rate	Regular Pay	31.5		E_NUM:7282,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ashish Kalia{7282}	PH Hours	Public Holiday	2.7		E_NUM:7282,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ashish Kalia{7282}	STAT Hours	Stat Day Worked	6.5		E_NUM:7282,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Dipti Thakuri{13614}	ST Rate	Regular Pay	16.5		E_NUM:13614,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Dipti Thakuri{13614}	PH Hours	Public Holiday	2.3		E_NUM:13614,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Faizan Hussain{11859}	ST Rate	Regular Pay	5.0		E_NUM:11859,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Faizan Hussain{11859}	PH Hours	Public Holiday	0.5		E_NUM:11859,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Heavenpreet Kaur{11919}	ST Rate	Regular Pay	71.0		E_NUM:11919,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Heavenpreet Kaur{11919}	PH Hours	Public Holiday	7.7		E_NUM:11919,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Iqra Hussain{3641}	ST Rate	Regular Pay	50.0		E_NUM:3641,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Iqra Hussain{3641}	PH Hours	Public Holiday	4.5		E_NUM:3641,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Iqra Sadiq{12641}	ST Rate	Regular Pay	40.0		E_NUM:12641,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Iqra Sadiq{12641}	PH Hours	Public Holiday	4.0		E_NUM:12641,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Manha Sadiq{11486}	ST Rate	Regular Pay	11.0		E_NUM:11486,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Manha Sadiq{11486}	PH Hours	Public Holiday	1.1		E_NUM:11486,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mobina Hussain{3943}	ST Rate	Regular Pay	33.0		E_NUM:3943,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mobina Hussain{3943}	PH Hours	Public Holiday	3.7		E_NUM:3943,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mobina Hussain{3943}	STAT Hours	Stat Day Worked	3.0		E_NUM:3943,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mudassar Hussain{1942}	ST Rate	Regular Pay	74.0		E_NUM:1942,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mudassar Hussain{1942}	PH Hours	Public Holiday	7.7		E_NUM:1942,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mudassar Hussain{1942}	STAT Hours	Stat Day Worked	6.5		E_NUM:1942,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Naitik Raval{12861}	ST Rate	Regular Pay	18.5		E_NUM:12861,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Naitik Raval{12861}	PH Hours	Public Holiday	2.2		E_NUM:12861,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Nekeisha Crawford{3672}	ST Rate	Regular Pay	6.5		E_NUM:3672,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Nekeisha Crawford{3672}	PH Hours	Public Holiday	1.3		E_NUM:3672,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rekha Sharma{2423}	ST Rate	Regular Pay	56.5		E_NUM:2423,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rekha Sharma{2423}	PH Hours	Public Holiday	5.8		E_NUM:2423,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sajjad Haider{13502}	ST Rate	Regular Pay	41.0		E_NUM:13502,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sajjad Haider{13502}	PH Hours	Public Holiday	4.4		E_NUM:13502,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sajjad Haider{13502}	STAT Hours	Stat Day Worked	5.5		E_NUM:13502,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sajjad Sadiq{2912}	ST Rate	Regular Pay	30.0		E_NUM:2912,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sajjad Sadiq{2912}	PH Hours	Public Holiday	3.0		E_NUM:2912,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Simranjit Kaur{12830}	ST Rate	Regular Pay	77.83		E_NUM:12830,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Simranjit Kaur{12830}	PH Hours	Public Holiday	7.2		E_NUM:12830,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Veer Pratap Singh{13265}	ST Rate	Regular Pay	71.33		E_NUM:13265,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Veer Pratap Singh{13265}	PH Hours	Public Holiday	7.1		E_NUM:13265,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Yusra Sadiq{5826}	ST Rate	Regular Pay	16.0		E_NUM:5826,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Yusra Sadiq{5826}	PH Hours	Public Holiday	2.0		E_NUM:5826,EMP_TYPE:ON	Y	1

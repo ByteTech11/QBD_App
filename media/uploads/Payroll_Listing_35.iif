@@ -1,0 +1,21 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Amal Al-marri{14293}	ST Rate	Regular Pay	31.9		E_NUM:14293,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Amal Al-marri{14293}	PH Hours	Public Holiday	4.2		E_NUM:14293,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Auzair Mohammed{11928}	ST Rate	Regular Pay	43.0		E_NUM:11928,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Auzair Mohammed{11928}	PH Hours	Public Holiday	8.9		E_NUM:11928,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Auzair Mohammed{11928}	STAT Hours	Stat Day Worked	5.5		E_NUM:11928,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ehteshama Haque{14043}	ST Rate	Regular Pay	33.75		E_NUM:14043,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ehteshama Haque{14043}	PH Hours	Public Holiday	3.9		E_NUM:14043,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Navajampreet Kaur{12136}	ST Rate	Regular Pay	33.0		E_NUM:12136,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Navajampreet Kaur{12136}	PH Hours	Public Holiday	10.1		E_NUM:12136,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ronit Choudhary{13717}	ST Rate	Regular Pay	64.5		E_NUM:13717,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ronit Choudhary{13717}	PH Hours	Public Holiday	8.7		E_NUM:13717,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Satwinder Kaur{12342}	ST Rate	Regular Pay	67.17		E_NUM:12342,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Satwinder Kaur{12342}	PH Hours	Public Holiday	7.7		E_NUM:12342,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Satwinder Kaur{12342}	STAT Hours	Stat Day Worked	3.92		E_NUM:12342,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Shamima Nasrin{14421}	ST Rate	Regular Pay	7.85		E_NUM:14421,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Shamima Nasrin{14421}	PH Hours	Public Holiday	0.3		E_NUM:14421,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Swastika Malla{12134}	ST Rate	Regular Pay	71.2		E_NUM:12134,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Swastika Malla{12134}	PH Hours	Public Holiday	7.2		E_NUM:12134,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Swastika Malla{12134}	STAT Hours	Stat Day Worked	7.5		E_NUM:12134,EMP_TYPE:ON	Y	1

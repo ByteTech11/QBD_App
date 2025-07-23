@@ -1,0 +1,15 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Jeevan Jyoti{12791}	ST Rate	Regular Pay	20.5		E_NUM:12791,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Jeevan Jyoti{12791}	PH Hours	Public Holiday	5.0		E_NUM:12791,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Khushkaran Singh{12731}	ST Rate	Regular Pay	23.5		E_NUM:12731,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Khushkaran Singh{12731}	PH Hours	Public Holiday	4.8		E_NUM:12731,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Manpreeet Singh{12183}	ST Rate	Regular Pay	88.0		E_NUM:12183,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Manpreeet Singh{12183}	PH Hours	Public Holiday	9.2		E_NUM:12183,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Muhsanat Chowdhry{14374}	ST Rate	Regular Pay	43.0		E_NUM:14374,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Muhsanat Chowdhry{14374}	PH Hours	Public Holiday	3.5		E_NUM:14374,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Neha Neha{12620}	ST Rate	Regular Pay	37.0		E_NUM:12620,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Neha Neha{12620}	PH Hours	Public Holiday	4.4		E_NUM:12620,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Pawanvir Kaur Pawanvir Kaur{12725}	ST Rate	Regular Pay	48		E_NUM:12725,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Pawanvir Kaur Pawanvir Kaur{12725}	PH Hours	Public Holiday	8.9		E_NUM:12725,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Pawanvir Kaur Pawanvir Kaur{12725}	STAT Hours	Stat Day Worked	7.5		E_NUM:12725,EMP_TYPE:IS	Y	1

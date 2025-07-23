@@ -25,4 +25,4 @@ class DocumentViewSet(viewsets.ModelViewSet):
             return Response({"error": "Invalid file type. Please upload an Excel file."}, status=400)
         
 def home(request):
-    return HttpResponse("Hello Wellcome To The Django_App !")
+    return HttpResponse("Hello Wellcome To The Django_App!")

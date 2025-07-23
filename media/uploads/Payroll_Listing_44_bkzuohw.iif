@@ -1,0 +1,35 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Amritpal Kaur{14163}	ST Rate	Regular Pay	40.25		E_NUM:14163,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Amritpal Kaur{14163}	PH Hours	Public Holiday	0.6		E_NUM:14163,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Amritpal Kaur{14163}	STAT Hours	Stat Day Worked	6.5		E_NUM:14163,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Aryan Kalra{14097}	ST Rate	Regular Pay	46.0		E_NUM:14097,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Aryan Kalra{14097}	PH Hours	Public Holiday	3.9		E_NUM:14097,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Aysha Shahid{2887}	ST Rate	Regular Pay	26.0		E_NUM:2887,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Aysha Shahid{2887}	PH Hours	Public Holiday	3.3		E_NUM:2887,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Aysha Shahid{2887}	STAT Hours	Stat Day Worked	5.5		E_NUM:2887,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Baljinder Kaur{11973}	ST Rate	Regular Pay	84.5		E_NUM:11973,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Baljinder Kaur{11973}	PH Hours	Public Holiday	10.2		E_NUM:11973,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Baljinder Kaur{11973}	STAT Hours	Stat Day Worked	6.0		E_NUM:11973,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Harman Kaur{13214}	ST Rate	Regular Pay	5.5		E_NUM:13214,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Lovepreet Singh{12638}	ST Rate	Regular Pay	72.25		E_NUM:12638,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Lovepreet Singh{12638}	PH Hours	Public Holiday	8.1		E_NUM:12638,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Lovepreet Singh{12638}	STAT Hours	Stat Day Worked	6.0		E_NUM:12638,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Manisha Sohal{12404}	ST Rate	Regular Pay	61.0		E_NUM:12404,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Manisha Sohal{12404}	PH Hours	Public Holiday	5.1		E_NUM:12404,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Prabhjot Kaur{14096}	ST Rate	Regular Pay	23.5		E_NUM:14096,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Prabhjot Kaur{14096}	PH Hours	Public Holiday	2.1		E_NUM:14096,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Prabhjot Kaur{14096}	STAT Hours	Stat Day Worked	6.0		E_NUM:14096,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rabia Safari{11760}	ST Rate	Regular Pay	31.0		E_NUM:11760,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rabia Safari{11760}	PH Hours	Public Holiday	3.1		E_NUM:11760,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Robin Singh{14359}	ST Rate	Regular Pay	13.5		E_NUM:14359,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Robin Singh{14359}	PH Hours	Public Holiday	2.8		E_NUM:14359,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Robin Singh{14359}	STAT Hours	Stat Day Worked	6.5		E_NUM:14359,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Siddharth Deepak Varma{12257}	ST Rate	Regular Pay	21.0		E_NUM:12257,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Siddharth Deepak Varma{12257}	PH Hours	Public Holiday	2.9		E_NUM:12257,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sukhdeep Kaur{14409}	ST Rate	Regular Pay	16.0		E_NUM:14409,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Sukhdeep Kaur{14409}	PH Hours	Public Holiday	1.1		E_NUM:14409,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Sulakshna Bhogal{12816}	ST Rate	Regular Pay	5.25		E_NUM:12816,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sulakshna Bhogal{12816}	PH Hours	Public Holiday	0.4		E_NUM:12816,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Zabiullah Habibi{12717}	ST Rate	Regular Pay	11.0		E_NUM:12717,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Zabiullah Habibi{12717}	PH Hours	Public Holiday	0.3		E_NUM:12717,EMP_TYPE:ON	Y	1

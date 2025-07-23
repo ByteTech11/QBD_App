@@ -1,0 +1,25 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Abirami Abi Gowrythasan{10022}	ST Rate	Regular Pay	18.16		E_NUM:10022,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Abirami Abi Gowrythasan{10022}	PH Hours	Public Holiday	2.1		E_NUM:10022,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Akshi Ragel{12697}	ST Rate	Regular Pay	10.5		E_NUM:12697,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Akshi Ragel{12697}	PH Hours	Public Holiday	1.6		E_NUM:12697,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Arpan Kaur{12636}	ST Rate	Regular Pay	79.0		E_NUM:12636,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Arpan Kaur{12636}	PH Hours	Public Holiday	9.6		E_NUM:12636,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Arpan Kaur{12636}	STAT Hours	Stat Day Worked	6.5		E_NUM:12636,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Carleye- Marie shanique modeshaque James{11160}	ST Rate	Regular Pay	61.83		E_NUM:11160,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Carleye- Marie shanique modeshaque James{11160}	PH Hours	Public Holiday	5.0		E_NUM:11160,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Carleye- Marie shanique modeshaque James{11160}	STAT Hours	Stat Day Worked	4.0		E_NUM:11160,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mohammad Fahad{14048}	ST Rate	Regular Pay	81.79		E_NUM:14048,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mohammad Fahad{14048}	PH Hours	Public Holiday	8.8		E_NUM:14048,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mohammad Fahad{14048}	STAT Hours	Stat Day Worked	5.5		E_NUM:14048,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mohammead Ehassan Akbary{11927}	ST Rate	Regular Pay	81.67		E_NUM:11927,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mohammead Ehassan Akbary{11927}	PH Hours	Public Holiday	8.9		E_NUM:11927,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mohammead Ehassan Akbary{11927}	STAT Hours	Stat Day Worked	7.0		E_NUM:11927,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ramandeep Kaur{12681}	ST Rate	Regular Pay	17.46		E_NUM:12681,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Ramandeep Kaur{12681}	PH Hours	Public Holiday	9.4		E_NUM:12681,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Simranjit Kaur{14358}	ST Rate	Regular Pay	19.0		E_NUM:14358,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Simranjit Kaur{14358}	PH Hours	Public Holiday	4.5		E_NUM:14358,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Simranjit Kaur{14358}	STAT Hours	Stat Day Worked	6.0		E_NUM:14358,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Washma Fareeda{13001}	ST Rate	Regular Pay	58.5		E_NUM:13001,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Washma Fareeda{13001}	PH Hours	Public Holiday	7.1		E_NUM:13001,EMP_TYPE:ON	Y	1

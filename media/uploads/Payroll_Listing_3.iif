@@ -1,0 +1,44 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Aafia Kabir{3489}	ST Rate	Regular Pay	30.0		E_NUM:3489,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Aafia Kabir{3489}	PH Hours	Public Holiday	3.1		E_NUM:3489,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Abu Sayed Molla{14434}	ST Rate	Regular Pay	14.83		E_NUM:14434,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Amit Kumar{14105}	ST Rate	Regular Pay	5.0		E_NUM:14105,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Amit Kumar{14105}	PH Hours	Public Holiday	3.0		E_NUM:14105,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Bruce Cuthbert{7622}	ST Rate	Regular Pay	23.08		E_NUM:7622,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Bruce Cuthbert{7622}	PH Hours	Public Holiday	3.3		E_NUM:7622,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Bruce Cuthbert{7622}	STAT Hours	Stat Day Worked	3.75		E_NUM:7622,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Chetan Jamba{14154}	ST Rate	Regular Pay	25.0		E_NUM:14154,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Chetan Jamba{14154}	PH Hours	Public Holiday	2.2		E_NUM:14154,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Iqra Noor{9961}	ST Rate	Regular Pay	5.41		E_NUM:9961,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Iqra Noor{9961}	PH Hours	Public Holiday	0.3		E_NUM:9961,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Karanjeet Singh{10575}	ST Rate	Regular Pay	74.17		E_NUM:10575,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Karanjeet Singh{10575}	PH Hours	Public Holiday	8.6		E_NUM:10575,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Karanjeet Singh{10575}	STAT Hours	Stat Day Worked	7.5		E_NUM:10575,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Labeed Ahmed{8546}	ST Rate	Regular Pay	25.0		E_NUM:8546,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Labeed Ahmed{8546}	PH Hours	Public Holiday	3.1		E_NUM:8546,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Labeed Ahmed{8546}	STAT Hours	Stat Day Worked	5.0		E_NUM:8546,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Manveen Kaur Kochhar{12427}	ST Rate	Regular Pay	11.83		E_NUM:12427,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Manveen Kaur Kochhar{12427}	PH Hours	Public Holiday	1.2		E_NUM:12427,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mohamed Zaid Mohamed Rizwan{12776}	ST Rate	Regular Pay	32.49		E_NUM:12776,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mohamed Zaid Mohamed Rizwan{12776}	PH Hours	Public Holiday	4.8		E_NUM:12776,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mohamed Zaid Mohamed Rizwan{12776}	STAT Hours	Stat Day Worked	5.67		E_NUM:12776,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Richi Verma{11544}	ST Rate	Regular Pay	66.93		E_NUM:11544,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Richi Verma{11544}	PH Hours	Public Holiday	6.5		E_NUM:11544,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Richi Verma{11544}	STAT Hours	Stat Day Worked	5.83		E_NUM:11544,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sai Shashank Kambalapally{11805}	ST Rate	Regular Pay	70.67		E_NUM:11805,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sai Shashank Kambalapally{11805}	PH Hours	Public Holiday	7.1		E_NUM:11805,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Saleh Alakoozi{12159}	ST Rate	Regular Pay	20.92		E_NUM:12159,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Saleh Alakoozi{12159}	PH Hours	Public Holiday	2.2		E_NUM:12159,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Saleh Alakoozi{12159}	STAT Hours	Stat Day Worked	2.92		E_NUM:12159,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Saurabh Magon{9604}	ST Rate	Regular Pay	55.84		E_NUM:9604,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Saurabh Magon{9604}	PH Hours	Public Holiday	5.8		E_NUM:9604,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Saurabh Magon{9604}	STAT Hours	Stat Day Worked	4.0		E_NUM:9604,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Shazib Amjad{9761}	ST Rate	Regular Pay	3.0		E_NUM:9761,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Shazib Amjad{9761}	PH Hours	Public Holiday	0.5		E_NUM:9761,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Somaya Habibzai{14439}	ST Rate	Regular Pay	15.66		E_NUM:14439,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sudip Tamang{14415}	ST Rate	Regular Pay	52.49		E_NUM:14415,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sudip Tamang{14415}	PH Hours	Public Holiday	3.0		E_NUM:14415,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sudip Tamang{14415}	STAT Hours	Stat Day Worked	3.92		E_NUM:14415,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Waleed Ahmed{8459}	ST Rate	Regular Pay	30.0		E_NUM:8459,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Waleed Ahmed{8459}	PH Hours	Public Holiday	3.1		E_NUM:8459,EMP_TYPE:ON	Y	1

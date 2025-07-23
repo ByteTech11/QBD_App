@@ -1,0 +1,26 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Anmol Saini{12633}	ST Rate	Regular Pay	23.5		E_NUM:12633,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Anmol Saini{12633}	PH Hours	Public Holiday	2.1		E_NUM:12633,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Aron Manoharan{6050}	ST Rate	Regular Pay	54.0		E_NUM:6050,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Aron Manoharan{6050}	PH Hours	Public Holiday	5.4		E_NUM:6050,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Aron Manoharan{6050}	STAT Hours	Stat Day Worked	5.0		E_NUM:6050,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Bhawanleen Singh{14085}	ST Rate	Regular Pay	40.5		E_NUM:14085,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Bhawanleen Singh{14085}	PH Hours	Public Holiday	4.9		E_NUM:14085,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Bhawanleen Singh{14085}	STAT Hours	Stat Day Worked	4.5		E_NUM:14085,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Dipesh Bajaj{12757}	ST Rate	Regular Pay	52.18		E_NUM:12757,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Dipesh Bajaj{12757}	PH Hours	Public Holiday	6.5		E_NUM:12757,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Dipesh Bajaj{12757}	STAT Hours	Stat Day Worked	4.98		E_NUM:12757,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Farida Lohar{8747}	ST Rate	Regular Pay	26.0		E_NUM:8747,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Farida Lohar{8747}	PH Hours	Public Holiday	6.2		E_NUM:8747,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Farida Lohar{8747}	STAT Hours	Stat Day Worked	5.5		E_NUM:8747,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Kyle Dewing{6937}	ST Rate	Regular Pay	69.27		E_NUM:6937,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Kyle Dewing{6937}	PH Hours	Public Holiday	6.5		E_NUM:6937,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Lester Jay Cruz Tiagan{11044}	ST Rate	Regular Pay	84.1		E_NUM:11044,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Lester Jay Cruz Tiagan{11044}	PH Hours	Public Holiday	7.5		E_NUM:11044,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Lester Jay Cruz Tiagan{11044}	STAT Hours	Stat Day Worked	6.0		E_NUM:11044,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Morsal Haidari{14372}	ST Rate	Regular Pay	40.5		E_NUM:14372,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Morsal Haidari{14372}	PH Hours	Public Holiday	7.3		E_NUM:14372,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Morsal Haidari{14372}	STAT Hours	Stat Day Worked	4.5		E_NUM:14372,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sandeep Kaur{14302}	ST Rate	Regular Pay	60.0		E_NUM:14302,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sandeep Kaur{14302}	PH Hours	Public Holiday	6.0		E_NUM:14302,EMP_TYPE:ON	Y	1

@@ -1,0 +1,33 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	A K M Mohsin{11784}	ST Rate	Regular Pay	38.0		E_NUM:11784,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	A K M Mohsin{11784}	PH Hours	Public Holiday	4.3		E_NUM:11784,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	A K M Mohsin{11784}	STAT Hours	Stat Day Worked	7.25		E_NUM:11784,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Alejandro Gadia{12116}	ST Rate	Regular Pay	72.25		E_NUM:12116,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Alejandro Gadia{12116}	PH Hours	Public Holiday	7.4		E_NUM:12116,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Alejandro Gadia{12116}	STAT Hours	Stat Day Worked	6.0		E_NUM:12116,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Armilita Andres{5885}	ST Rate	Regular Pay	22.0		E_NUM:5885,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Armilita Andres{5885}	PH Hours	Public Holiday	3.3		E_NUM:5885,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Federico Jr Carnay{14055}	ST Rate	Regular Pay	72.75		E_NUM:14055,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Federico Jr Carnay{14055}	PH Hours	Public Holiday	7.9		E_NUM:14055,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Federico Jr Carnay{14055}	STAT Hours	Stat Day Worked	7.0		E_NUM:14055,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Joseph Oreo{14054}	ST Rate	Regular Pay	71.25		E_NUM:14054,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Joseph Oreo{14054}	PH Hours	Public Holiday	7.5		E_NUM:14054,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Joseph Oreo{14054}	STAT Hours	Stat Day Worked	7.0		E_NUM:14054,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Komalpreet Singh Sandhu{14350}	ST Rate	Regular Pay	48		E_NUM:14350,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Komalpreet Singh Sandhu{14350}	PH Hours	Public Holiday	6.5		E_NUM:14350,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Lalit Jindal{12274}	ST Rate	Regular Pay	33.5		E_NUM:12274,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Lalit Jindal{12274}	PH Hours	Public Holiday	3.8		E_NUM:12274,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Liezel San Pedro{5884}	ST Rate	Regular Pay	51.0		E_NUM:5884,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Liezel San Pedro{5884}	PH Hours	Public Holiday	5.5		E_NUM:5884,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Liezel San Pedro{5884}	STAT Hours	Stat Day Worked	7.25		E_NUM:5884,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Maninder Kaur{12547}	ST Rate	Regular Pay	67.5		E_NUM:12547,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Maninder Kaur{12547}	PH Hours	Public Holiday	7.1		E_NUM:12547,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Maninder Kaur{12547}	STAT Hours	Stat Day Worked	5.0		E_NUM:12547,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Manpreet Kaur{12285}	ST Rate	Regular Pay	72.0		E_NUM:12285,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Manpreet Kaur{12285}	PH Hours	Public Holiday	6.6		E_NUM:12285,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Mir Faisal Kabir{11778}	ST Rate	Regular Pay	48		E_NUM:11778,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Mir Faisal Kabir{11778}	PH Hours	Public Holiday	5.9		E_NUM:11778,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Mir Faisal Kabir{11778}	STAT Hours	Stat Day Worked	5.25		E_NUM:11778,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Parthibuzzaman Parthibuzzaman{12199}	ST Rate	Regular Pay	48		E_NUM:12199,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Parthibuzzaman Parthibuzzaman{12199}	PH Hours	Public Holiday	6.8		E_NUM:12199,EMP_TYPE:IS	Y	1

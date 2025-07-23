@@ -1,0 +1,19 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Ankush Nanda{12688}	ST Rate	Regular Pay	78.33		E_NUM:12688,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ankush Nanda{12688}	PH Hours	Public Holiday	8.8		E_NUM:12688,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ankush Nanda{12688}	STAT Hours	Stat Day Worked	9.5		E_NUM:12688,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Gurpreet Singh{12754}	ST Rate	Regular Pay	82.42		E_NUM:12754,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Gurpreet Singh{12754}	PH Hours	Public Holiday	9.0		E_NUM:12754,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Gurpreet Singh{12754}	STAT Hours	Stat Day Worked	7.0		E_NUM:12754,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Harjinder Singh Dhillon{13240}	ST Rate	Regular Pay	36.5		E_NUM:13240,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Harjinder Singh Dhillon{13240}	PH Hours	Public Holiday	3.4		E_NUM:13240,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jashandeep Singh{9514}	ST Rate	Regular Pay	82.0		E_NUM:9514,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jashandeep Singh{9514}	PH Hours	Public Holiday	9.0		E_NUM:9514,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jashandeep Singh{9514}	STAT Hours	Stat Day Worked	5.0		E_NUM:9514,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Lovedeep Kaur{12698}	ST Rate	Regular Pay	9.5		E_NUM:12698,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Lovedeep Kaur{12698}	PH Hours	Public Holiday	1.7		E_NUM:12698,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Pawanpreet Kaur{14396}	ST Rate	Regular Pay	33.25		E_NUM:14396,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Pawanpreet Kaur{14396}	PH Hours	Public Holiday	1.9		E_NUM:14396,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Subegh Singh{14346}	ST Rate	Regular Pay	69.5		E_NUM:14346,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Subegh Singh{14346}	PH Hours	Public Holiday	6.7		E_NUM:14346,EMP_TYPE:ON	Y	1

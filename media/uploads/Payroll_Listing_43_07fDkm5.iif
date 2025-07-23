@@ -1,0 +1,37 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Aashiyana Maheboobbhai Vhora{12209}	ST Rate	Regular Pay	54		E_NUM:12209,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Aashiyana Maheboobbhai Vhora{12209}	PH Hours	Public Holiday	6.0		E_NUM:12209,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Aashiyana Maheboobbhai Vhora{12209}	STAT Hours	Stat Day Worked	6		E_NUM:12209,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Charanpreet Kaur{12704}	ST Rate	Regular Pay	35		E_NUM:12704,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Charanpreet Kaur{12704}	PH Hours	Public Holiday	4.3		E_NUM:12704,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Charanpreet Kaur{12704}	STAT Hours	Stat Day Worked	5		E_NUM:12704,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Deepika Mehta{12804}	ST Rate	Regular Pay	40		E_NUM:12804,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Deepika Mehta{12804}	PH Hours	Public Holiday	4.0		E_NUM:12804,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Deo Delise Neyyan Daison{12735}	ST Rate	Regular Pay	45		E_NUM:12735,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Deo Delise Neyyan Daison{12735}	PH Hours	Public Holiday	5.0		E_NUM:12735,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Deo Delise Neyyan Daison{12735}	STAT Hours	Stat Day Worked	5		E_NUM:12735,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Eesh Aggarwal{12705}	ST Rate	Regular Pay	34		E_NUM:12705,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Eesh Aggarwal{12705}	PH Hours	Public Holiday	4.0		E_NUM:12705,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Eesh Aggarwal{12705}	STAT Hours	Stat Day Worked	6		E_NUM:12705,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Humera Sarwar{4374}	ST Rate	Regular Pay	80		E_NUM:4374,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Humera Sarwar{4374}	PH Hours	Public Holiday	8.8		E_NUM:4374,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Humera Sarwar{4374}	STAT Hours	Stat Day Worked	8		E_NUM:4374,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Keshav Arora{14362}	ST Rate	Regular Pay	40		E_NUM:14362,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Keshav Arora{14362}	PH Hours	Public Holiday	4.0		E_NUM:14362,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Naman Sharma{9130}	ST Rate	Regular Pay	32		E_NUM:9130,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Naman Sharma{9130}	PH Hours	Public Holiday	4.0		E_NUM:9130,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Naman Sharma{9130}	STAT Hours	Stat Day Worked	8		E_NUM:9130,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rableen Kaur{14410}	ST Rate	Regular Pay	20		E_NUM:14410,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Rableen Kaur{14410}	PH Hours	Public Holiday	2.0		E_NUM:14410,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Sagar Nischal{14363}	ST Rate	Regular Pay	48		E_NUM:14363,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Sagar Nischal{14363}	PH Hours	Public Holiday	5.5		E_NUM:14363,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Samsun Nahar sikder{1909}	ST Rate	Regular Pay	80		E_NUM:1909,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Samsun Nahar sikder{1909}	PH Hours	Public Holiday	8.8		E_NUM:1909,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Samsun Nahar sikder{1909}	STAT Hours	Stat Day Worked	8		E_NUM:1909,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sarah Marie Hatch-Merrett{1910}	ST Rate	Regular Pay	20		E_NUM:1910,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sarah Marie Hatch-Merrett{1910}	PH Hours	Public Holiday	1.6		E_NUM:1910,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Srivasuki Mysornathan{9913}	ST Rate	Regular Pay	40		E_NUM:9913,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Srivasuki Mysornathan{9913}	PH Hours	Public Holiday	4.0		E_NUM:9913,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sukhvir Kaur{12373}	ST Rate	Regular Pay	40		E_NUM:12373,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sukhvir Kaur{12373}	PH Hours	Public Holiday	4.0		E_NUM:12373,EMP_TYPE:ON	Y	1

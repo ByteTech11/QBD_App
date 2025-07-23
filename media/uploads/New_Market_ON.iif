@@ -1,0 +1,23 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Allien TALPLACIDO Aguda{13299}	ST Rate	Regular Pay	74.5		E_NUM:13299,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Allien TALPLACIDO Aguda{13299}	PH Hours	Public Holiday	8.5		E_NUM:13299,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Allien TALPLACIDO Aguda{13299}	STAT Hours	Stat Day Worked	5.83		E_NUM:13299,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Deepika Sadhra{10581}	ST Rate	Regular Pay	48		E_NUM:10581,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Deepika Sadhra{10581}	PH Hours	Public Holiday	0.8		E_NUM:10581,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Harpartap Singh{11968}	ST Rate	Regular Pay	64.01		E_NUM:11968,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Harpartap Singh{11968}	PH Hours	Public Holiday	2.3		E_NUM:11968,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Harpartap Singh{11968}	STAT Hours	Stat Day Worked	4.75		E_NUM:11968,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jashandeep Kaur{14281}	ST Rate	Regular Pay	48		E_NUM:14281,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Jashandeep Kaur{14281}	PH Hours	Public Holiday	6.0		E_NUM:14281,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Kajal Ralli{9075}	ST Rate	Regular Pay	33.58		E_NUM:9075,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Kajal Ralli{9075}	PH Hours	Public Holiday	4.1		E_NUM:9075,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Kajal Ralli{9075}	STAT Hours	Stat Day Worked	5.75		E_NUM:9075,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Mary Angelude CORPUZ Magalong{13285}	ST Rate	Regular Pay	78.66		E_NUM:13285,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mary Angelude CORPUZ Magalong{13285}	PH Hours	Public Holiday	8.1		E_NUM:13285,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mary Angelude CORPUZ Magalong{13285}	STAT Hours	Stat Day Worked	5.67		E_NUM:13285,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Muhammad Shakeel{4478}	ST Rate	Regular Pay	12.0		E_NUM:4478,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Muhammad Shakeel{4478}	PH Hours	Public Holiday	2.1		E_NUM:4478,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ryan Roen SAN PEDRO Balingit{13298}	ST Rate	Regular Pay	77.5		E_NUM:13298,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ryan Roen SAN PEDRO Balingit{13298}	PH Hours	Public Holiday	8.8		E_NUM:13298,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ryan Roen SAN PEDRO Balingit{13298}	STAT Hours	Stat Day Worked	6.5		E_NUM:13298,EMP_TYPE:ON	Y	1

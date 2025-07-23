@@ -1,0 +1,16 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	06/27/2025	Default Job	Akash Kadavil Prasad{12316}	ST Rate	Regular Pay	46.0		E_NUM:12316,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Anjita Ojha{12179}	ST Rate	Regular Pay	88.0		E_NUM:12179,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Barun Ghimire{12762}	ST Rate	Regular Pay	48		E_NUM:12762,EMP_TYPE:IS	Y	1
+TIMEACT	06/27/2025	Default Job	Bharat Parajuli{12176}	ST Rate	Regular Pay	58.0		E_NUM:12176,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Dalveen Kaur{14266}	ST Rate	Regular Pay	21.5		E_NUM:14266,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Ganesh Kumar Prajapati{12177}	ST Rate	Regular Pay	88.0		E_NUM:12177,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Jishnu Gopala Krishnan Nair Kannan{14360}	ST Rate	Regular Pay	70.0		E_NUM:14360,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Karina Bhaila{12178}	ST Rate	Regular Pay	48		E_NUM:12178,EMP_TYPE:IS	Y	1
+TIMEACT	06/27/2025	Default Job	Lino John{14267}	ST Rate	Regular Pay	7.5		E_NUM:14267,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Mayur Vaghela{14268}	ST Rate	Regular Pay	34.0		E_NUM:14268,EMP_TYPE:IS	Y	1
+TIMEACT	06/27/2025	Default Job	Nouman Muhammad{8170}	ST Rate	Regular Pay	73.25		E_NUM:8170,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Shakawath Hussain{10371}	ST Rate	Regular Pay	48		E_NUM:10371,EMP_TYPE:IS	Y	1
+TIMEACT	06/27/2025	Default Job	Sukhwinder Kaur{13101}	ST Rate	Regular Pay	77.0		E_NUM:13101,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Zain Akmal{14356}	ST Rate	Regular Pay	26.5		E_NUM:14356,EMP_TYPE:ON	Y	1

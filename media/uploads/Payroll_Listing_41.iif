@@ -1,0 +1,29 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Anna froese Wiebe{14425}	ST Rate	Regular Pay	14.5		E_NUM:14425,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Arshdeep Kaur{12365}	ST Rate	Regular Pay	15.0		E_NUM:12365,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Arshdeep Kaur{12365}	PH Hours	Public Holiday	9.5		E_NUM:12365,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Cassidy Wasend{14423}	ST Rate	Regular Pay	25.5		E_NUM:14423,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Cassidy Wasend{14423}	PH Hours	Public Holiday	0.2		E_NUM:14423,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Diana Guzman{11850}	ST Rate	Regular Pay	11.0		E_NUM:11850,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Diana Guzman{11850}	PH Hours	Public Holiday	3.0		E_NUM:11850,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Edrik Walter{14424}	ST Rate	Regular Pay	41.5		E_NUM:14424,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Harkamal Singh{14324}	ST Rate	Regular Pay	48		E_NUM:14324,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Harkamal Singh{14324}	PH Hours	Public Holiday	8.2		E_NUM:14324,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Harkamal Singh{14324}	STAT Hours	Stat Day Worked	6.5		E_NUM:14324,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Megha Megha{14336}	ST Rate	Regular Pay	27.0		E_NUM:14336,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Megha Megha{14336}	PH Hours	Public Holiday	3.9		E_NUM:14336,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Mohammed Ali Asad Ullah{10906}	ST Rate	Regular Pay	66.5		E_NUM:10906,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Mohammed Ali Asad Ullah{10906}	PH Hours	Public Holiday	6.6		E_NUM:10906,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Mohammed Ali Asad Ullah{10906}	STAT Hours	Stat Day Worked	12.0		E_NUM:10906,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Nisha Sapra{14375}	ST Rate	Regular Pay	72.0		E_NUM:14375,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Nisha Sapra{14375}	PH Hours	Public Holiday	7.9		E_NUM:14375,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Nisha Sapra{14375}	STAT Hours	Stat Day Worked	8.0		E_NUM:14375,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Sardeep Singh{10809}	ST Rate	Regular Pay	71.5		E_NUM:10809,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Sardeep Singh{10809}	PH Hours	Public Holiday	7.6		E_NUM:10809,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Sardeep Singh{10809}	STAT Hours	Stat Day Worked	7.0		E_NUM:10809,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Sohan Singh Adol{12539}	ST Rate	Regular Pay	74.0		E_NUM:12539,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Sohan Singh Adol{12539}	PH Hours	Public Holiday	8.5		E_NUM:12539,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Sohan Singh Adol{12539}	STAT Hours	Stat Day Worked	6.75		E_NUM:12539,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Sumiti Sumiti{14387}	ST Rate	Regular Pay	23.5		E_NUM:14387,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Sumiti Sumiti{14387}	PH Hours	Public Holiday	1.7		E_NUM:14387,EMP_TYPE:SK	Y	1

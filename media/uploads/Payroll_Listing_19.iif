@@ -1,0 +1,29 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Hafiz Muhammad Usman{12276}	ST Rate	Regular Pay	80.0		E_NUM:12276,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Hafiz Muhammad Usman{12276}	PH Hours	Public Holiday	6.6		E_NUM:12276,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Manpreet Kaur{12198}	ST Rate	Regular Pay	65.25		E_NUM:12198,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Manpreet Kaur{12198}	PH Hours	Public Holiday	7.9		E_NUM:12198,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Manpreet Kaur{12198}	STAT Hours	Stat Day Worked	7.0		E_NUM:12198,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Md Lukman Husan{12809}	ST Rate	Regular Pay	25.0		E_NUM:12809,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Md Lukman Husan{12809}	PH Hours	Public Holiday	2.4		E_NUM:12809,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Muhammad Abbas Khan{11893}	ST Rate	Regular Pay	65.0		E_NUM:11893,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Muhammad Abbas Khan{11893}	PH Hours	Public Holiday	6.8		E_NUM:11893,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Muhammad Abbas Khan{11893}	STAT Hours	Stat Day Worked	7.0		E_NUM:11893,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Rajanpreet Kaur{14056}	ST Rate	Regular Pay	57.5		E_NUM:14056,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Rajanpreet Kaur{14056}	PH Hours	Public Holiday	6.3		E_NUM:14056,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Rajanpreet Kaur{14056}	STAT Hours	Stat Day Worked	3.0		E_NUM:14056,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Rendel JAN Patagan{12378}	ST Rate	Regular Pay	70.25		E_NUM:12378,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Rendel JAN Patagan{12378}	PH Hours	Public Holiday	8.0		E_NUM:12378,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Rendel JAN Patagan{12378}	STAT Hours	Stat Day Worked	8.75		E_NUM:12378,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	S M FOZLE RABBI{8645}	ST Rate	Regular Pay	61.0		E_NUM:8645,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	S M FOZLE RABBI{8645}	PH Hours	Public Holiday	7.0		E_NUM:8645,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	S M FOZLE RABBI{8645}	STAT Hours	Stat Day Worked	8.25		E_NUM:8645,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	S M Rafiquil Azam{13258}	ST Rate	Regular Pay	66.75		E_NUM:13258,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	S M Rafiquil Azam{13258}	PH Hours	Public Holiday	7.0		E_NUM:13258,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Sahibjeet Singh{10816}	ST Rate	Regular Pay	60.25		E_NUM:10816,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Sahibjeet Singh{10816}	PH Hours	Public Holiday	6.4		E_NUM:10816,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Sahibjeet Singh{10816}	STAT Hours	Stat Day Worked	7.0		E_NUM:10816,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Sara Nawab{7313}	ST Rate	Regular Pay	55.0		E_NUM:7313,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Sara Nawab{7313}	PH Hours	Public Holiday	5.7		E_NUM:7313,EMP_TYPE:SK	Y	1
+TIMEACT	07/11/2025	Default Job	Sara Nawab{7313}	STAT Hours	Stat Day Worked	9.0		E_NUM:7313,EMP_TYPE:SK	Y	1

@@ -1,0 +1,17 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Bimal Tamang{14132}	ST Rate	Regular Pay	44.5		E_NUM:14132,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Bimal Tamang{14132}	PH Hours	Public Holiday	9.2		E_NUM:14132,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Bimal Tamang{14132}	STAT Hours	Stat Day Worked	8.5		E_NUM:14132,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Eugene Relativo{12729}	ST Rate	Regular Pay	88.0		E_NUM:12729,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Eugene Relativo{12729}	PH Hours	Public Holiday	7.7		E_NUM:12729,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Himanshi Himanshi{12808}	ST Rate	Regular Pay	68.0		E_NUM:12808,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Himanshi Himanshi{12808}	PH Hours	Public Holiday	6.8		E_NUM:12808,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Honey Varma{10521}	ST Rate	Regular Pay	24.0		E_NUM:10521,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Honey Varma{10521}	PH Hours	Public Holiday	2.5		E_NUM:10521,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jaspreet Singh{12221}	ST Rate	Regular Pay	28.5		E_NUM:12221,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jaspreet Singh{12221}	PH Hours	Public Holiday	4.3		E_NUM:12221,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jeevan Jyoti{12791}	ST Rate	Regular Pay	27.5		E_NUM:12791,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Jeevan Jyoti{12791}	PH Hours	Public Holiday	5.0		E_NUM:12791,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Maliha Maksudaahmed Ruwala{14384}	ST Rate	Regular Pay	14.5		E_NUM:14384,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Maliha Maksudaahmed Ruwala{14384}	PH Hours	Public Holiday	2.5		E_NUM:14384,EMP_TYPE:IS	Y	1

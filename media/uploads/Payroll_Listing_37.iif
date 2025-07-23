@@ -1,0 +1,27 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Auzair Mohammed{11928}	ST Rate	Regular Pay	37.05		E_NUM:11928,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Auzair Mohammed{11928}	PH Hours	Public Holiday	8.9		E_NUM:11928,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ayman Hasan{14366}	ST Rate	Regular Pay	3.0		E_NUM:14366,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ayman Hasan{14366}	PH Hours	Public Holiday	1.7		E_NUM:14366,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Chintan Patel{14288}	ST Rate	Regular Pay	54.5		E_NUM:14288,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Chintan Patel{14288}	PH Hours	Public Holiday	4.1		E_NUM:14288,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Chintan Patel{14288}	STAT Hours	Stat Day Worked	4.5		E_NUM:14288,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Ghizal Noori{14441}	ST Rate	Regular Pay	1.75		E_NUM:14441,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Harmandeep Kaur{12998}	ST Rate	Regular Pay	62.0		E_NUM:12998,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Harmandeep Kaur{12998}	PH Hours	Public Holiday	9.8		E_NUM:12998,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Morsal Haidari{14372}	ST Rate	Regular Pay	8.95		E_NUM:14372,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Morsal Haidari{14372}	PH Hours	Public Holiday	7.3		E_NUM:14372,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Navajampreet Kaur{12136}	ST Rate	Regular Pay	71.45		E_NUM:12136,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Navajampreet Kaur{12136}	PH Hours	Public Holiday	10.1		E_NUM:12136,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Navajampreet Kaur{12136}	STAT Hours	Stat Day Worked	4.5		E_NUM:12136,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rahul Babu{12311}	ST Rate	Regular Pay	28.92		E_NUM:12311,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rahul Babu{12311}	PH Hours	Public Holiday	2.1		E_NUM:12311,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rahul Babu{12311}	STAT Hours	Stat Day Worked	5.0		E_NUM:12311,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rifat Bhuiyan{12564}	ST Rate	Regular Pay	51.64		E_NUM:12564,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rifat Bhuiyan{12564}	PH Hours	Public Holiday	8.0		E_NUM:12564,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Rifat Bhuiyan{12564}	STAT Hours	Stat Day Worked	6.23		E_NUM:12564,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Shamima Nasrin{14421}	ST Rate	Regular Pay	8.96		E_NUM:14421,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Shamima Nasrin{14421}	PH Hours	Public Holiday	0.3		E_NUM:14421,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Venkata Naga Sai sumanth Ananthu{14373}	ST Rate	Regular Pay	5.98		E_NUM:14373,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Venkata Naga Sai sumanth Ananthu{14373}	PH Hours	Public Holiday	0.7		E_NUM:14373,EMP_TYPE:ON	Y	1

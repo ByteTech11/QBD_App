@@ -1,0 +1,30 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Anum Awais{14331}	ST Rate	Regular Pay	36.98		E_NUM:14331,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Anum Awais{14331}	PH Hours	Public Holiday	4.2		E_NUM:14331,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Anum Awais{14331}	STAT Hours	Stat Day Worked	6.5		E_NUM:14331,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Arshdeep Kaur{14329}	ST Rate	Regular Pay	38.5		E_NUM:14329,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Arshdeep Kaur{14329}	PH Hours	Public Holiday	5.2		E_NUM:14329,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Athena Mae Alcantara{12301}	ST Rate	Regular Pay	71.61		E_NUM:12301,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Athena Mae Alcantara{12301}	PH Hours	Public Holiday	7.7		E_NUM:12301,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Athena Mae Alcantara{12301}	STAT Hours	Stat Day Worked	9.75		E_NUM:12301,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Axel Jayden{13715}	ST Rate	Regular Pay	40.4		E_NUM:13715,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Axel Jayden{13715}	PH Hours	Public Holiday	4.4		E_NUM:13715,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Chima Kalu-Emea Kalu{12812}	ST Rate	Regular Pay	28.14		E_NUM:12812,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Chima Kalu-Emea Kalu{12812}	PH Hours	Public Holiday	2.1		E_NUM:12812,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Chima Kalu-Emea Kalu{12812}	STAT Hours	Stat Day Worked	4.43		E_NUM:12812,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Gurpreet Singh{11930}	ST Rate	Regular Pay	78.2		E_NUM:11930,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Gurpreet Singh{11930}	PH Hours	Public Holiday	8.6		E_NUM:11930,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Gurpreet Singh{11930}	STAT Hours	Stat Day Worked	9.5		E_NUM:11930,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Kamaljeet Singh{14297}	ST Rate	Regular Pay	71.81		E_NUM:14297,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Kamaljeet Singh{14297}	PH Hours	Public Holiday	6.8		E_NUM:14297,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Kamaljeet Singh{14297}	STAT Hours	Stat Day Worked	7.5		E_NUM:14297,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Manahil Suhaib{14153}	ST Rate	Regular Pay	32.85		E_NUM:14153,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Manahil Suhaib{14153}	PH Hours	Public Holiday	3.6		E_NUM:14153,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mark Angelo Borbe Marco{13293}	ST Rate	Regular Pay	85.94		E_NUM:13293,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mark Angelo Borbe Marco{13293}	PH Hours	Public Holiday	8.9		E_NUM:13293,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Mehak Preet Singh{14120}	ST Rate	Regular Pay	48		E_NUM:14120,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Mehak Preet Singh{14120}	PH Hours	Public Holiday	5.6		E_NUM:14120,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Mehak Preet Singh{14120}	STAT Hours	Stat Day Worked	11.0		E_NUM:14120,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Susan Pandey{14393}	ST Rate	Regular Pay	67.66		E_NUM:14393,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Susan Pandey{14393}	PH Hours	Public Holiday	3.4		E_NUM:14393,EMP_TYPE:ON	Y	1

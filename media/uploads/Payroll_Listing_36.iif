@@ -1,0 +1,28 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Ankita Upadhayay{12736}	ST Rate	Regular Pay	48		E_NUM:12736,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Ankita Upadhayay{12736}	PH Hours	Public Holiday	6.9		E_NUM:12736,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Jeffrey Tating Garcia{12827}	ST Rate	Regular Pay	74.25		E_NUM:12827,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jeffrey Tating Garcia{12827}	PH Hours	Public Holiday	8.1		E_NUM:12827,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jeffrey Tating Garcia{12827}	STAT Hours	Stat Day Worked	7.5		E_NUM:12827,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jennifer Alvarado{12056}	ST Rate	Regular Pay	78.75		E_NUM:12056,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jennifer Alvarado{12056}	PH Hours	Public Holiday	8.0		E_NUM:12056,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Kiranveer Kaur{11593}	ST Rate	Regular Pay	62.25		E_NUM:11593,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Kiranveer Kaur{11593}	PH Hours	Public Holiday	8.0		E_NUM:11593,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Kiranveer Kaur{11593}	STAT Hours	Stat Day Worked	10.0		E_NUM:11593,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Kyumikkumar Patel{12413}	ST Rate	Regular Pay	48		E_NUM:12413,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Kyumikkumar Patel{12413}	PH Hours	Public Holiday	3.5		E_NUM:12413,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Kyumikkumar Patel{12413}	STAT Hours	Stat Day Worked	7.5		E_NUM:12413,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Maneet Kumar{14118}	ST Rate	Regular Pay	42.25		E_NUM:14118,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Maneet Kumar{14118}	PH Hours	Public Holiday	4.8		E_NUM:14118,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Maneet Kumar{14118}	STAT Hours	Stat Day Worked	6.5		E_NUM:14118,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Manisha Rani{8815}	ST Rate	Regular Pay	61.5		E_NUM:8815,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Manisha Rani{8815}	PH Hours	Public Holiday	5.0		E_NUM:8815,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Paras Paras{13609}	ST Rate	Regular Pay	48		E_NUM:13609,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Paras Paras{13609}	PH Hours	Public Holiday	7.1		E_NUM:13609,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Paras Paras{13609}	STAT Hours	Stat Day Worked	7.0		E_NUM:13609,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Saniyaben Nasirbhai Vahora{12596}	ST Rate	Regular Pay	37.25		E_NUM:12596,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Saniyaben Nasirbhai Vahora{12596}	PH Hours	Public Holiday	5.5		E_NUM:12596,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Saniyaben Nasirbhai Vahora{12596}	STAT Hours	Stat Day Worked	5.5		E_NUM:12596,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Vikramjit Singh{13252}	ST Rate	Regular Pay	28.5		E_NUM:13252,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Vikramjit Singh{13252}	PH Hours	Public Holiday	2.7		E_NUM:13252,EMP_TYPE:IS	Y	1

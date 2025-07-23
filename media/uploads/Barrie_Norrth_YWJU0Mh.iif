@@ -1,0 +1,18 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	06/27/2025	Default Job	Aalok Shrestha{12711}	ST Rate	Regular Pay	48		E_NUM:12711,EMP_TYPE:IS	Y	1
+TIMEACT	06/27/2025	Default Job	Aashvi Chitresh Parikh{11601}	ST Rate	Regular Pay	88		E_NUM:11601,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Abia Mir{14315}	ST Rate	Regular Pay	30.75		E_NUM:14315,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Alish Shrestha{14403}	ST Rate	Regular Pay	26.67		E_NUM:14403,EMP_TYPE:IS	Y	1
+TIMEACT	06/27/2025	Default Job	Harshpreet Singh{14144}	ST Rate	Regular Pay	36.83		E_NUM:14144,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Jayabharathi Gayathri{12635}	ST Rate	Regular Pay	87.08		E_NUM:12635,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Jency Kakadiya{12289}	ST Rate	Regular Pay	88		E_NUM:12289,EMP_TYPE:SD	Y	1
+TIMEACT	06/27/2025	Default Job	Kaunain Fatima Syeda{14158}	ST Rate	Regular Pay	18.5		E_NUM:14158,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Mausam Gohil{14397}	ST Rate	Regular Pay	35.75		E_NUM:14397,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Md Delwar Hussain{12663}	ST Rate	Regular Pay	83.75		E_NUM:12663,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Nafi Rahman{12823}	ST Rate	Regular Pay	79.5		E_NUM:12823,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Priyanshu Sethi{14347}	ST Rate	Regular Pay	48.16		E_NUM:14347,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Pushpinder Kaur{12679}	ST Rate	Regular Pay	13.5		E_NUM:12679,EMP_TYPE:IS	Y	1
+TIMEACT	06/27/2025	Default Job	Rupinder Kaur{12684}	ST Rate	Regular Pay	60.0		E_NUM:12684,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Sanjaya Magar{11970}	ST Rate	Regular Pay	88		E_NUM:11970,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Sushma Waiba{12864}	ST Rate	Regular Pay	65.0		E_NUM:12864,EMP_TYPE:ON	Y	1

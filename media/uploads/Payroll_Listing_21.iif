@@ -1,0 +1,21 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Amarjeet Singh{11527}	ST Rate	Regular Pay	81.08		E_NUM:11527,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Amarjeet Singh{11527}	PH Hours	Public Holiday	8.3		E_NUM:11527,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Amarjeet Singh{11527}	STAT Hours	Stat Day Worked	7		E_NUM:11527,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Himanshu Himanshu{12837}	ST Rate	Regular Pay	48		E_NUM:12837,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Himanshu Himanshu{12837}	PH Hours	Public Holiday	5.2		E_NUM:12837,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Himanshu Himanshu{12837}	STAT Hours	Stat Day Worked	5		E_NUM:12837,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Jaideep Singh{11285}	ST Rate	Regular Pay	76.25		E_NUM:11285,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jaideep Singh{11285}	PH Hours	Public Holiday	7.9		E_NUM:11285,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jaideep Singh{11285}	STAT Hours	Stat Day Worked	7		E_NUM:11285,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Parneet Kaur Gill{12474}	ST Rate	Regular Pay	43.75		E_NUM:12474,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Parneet Kaur Gill{12474}	PH Hours	Public Holiday	6.4		E_NUM:12474,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Parneet Kaur Gill{12474}	STAT Hours	Stat Day Worked	7		E_NUM:12474,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Prikshit Dhiman{14301}	ST Rate	Regular Pay	36.75		E_NUM:14301,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Prikshit Dhiman{14301}	PH Hours	Public Holiday	4.4		E_NUM:14301,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Simranpreet Kaur{14326}	ST Rate	Regular Pay	30.84		E_NUM:14326,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Simranpreet Kaur{14326}	PH Hours	Public Holiday	2.7		E_NUM:14326,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	UMER IQBAL AWAN{1576}	ST Rate	Regular Pay	67.25		E_NUM:1576,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	UMER IQBAL AWAN{1576}	PH Hours	Public Holiday	7.6		E_NUM:1576,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	UMER IQBAL AWAN{1576}	STAT Hours	Stat Day Worked	5		E_NUM:1576,EMP_TYPE:ON	Y	1

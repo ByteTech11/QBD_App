@@ -1,0 +1,12 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	06/27/2025	Default Job	Arshdeep Singh{12039}	ST Rate	Regular Pay	21.35		E_NUM:12039,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Auzair Mohammed{11928}	ST Rate	Regular Pay	9.0		E_NUM:11928,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Ehteshama Haque{14043}	ST Rate	Regular Pay	12.0		E_NUM:14043,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Ishni Amandi Wickramaratne{14139}	ST Rate	Regular Pay	81.75		E_NUM:14139,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Johns Mathew{12066}	ST Rate	Regular Pay	88		E_NUM:12066,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Kshitiz Pal{14041}	ST Rate	Regular Pay	58.22		E_NUM:14041,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Noorya Meraj{14148}	ST Rate	Regular Pay	47.75		E_NUM:14148,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Swetha Porchezhiyan{14309}	ST Rate	Regular Pay	54.79		E_NUM:14309,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Venkata Naga Sai sumanth Ananthu{14373}	ST Rate	Regular Pay	3.0		E_NUM:14373,EMP_TYPE:ON	Y	1
+TIMEACT	06/27/2025	Default Job	Wali Shah{5391}	ST Rate	Regular Pay	88		E_NUM:5391,EMP_TYPE:ON	Y	1

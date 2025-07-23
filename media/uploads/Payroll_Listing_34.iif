@@ -1,0 +1,32 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Arshdeep Singh{14283}	ST Rate	Regular Pay	23.0		E_NUM:14283,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Arshdeep Singh{14283}	PH Hours	Public Holiday	4.4		E_NUM:14283,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Harpreet Singh Sidhu{10568}	ST Rate	Regular Pay	26.0		E_NUM:10568,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Harpreet Singh Sidhu{10568}	PH Hours	Public Holiday	1.2		E_NUM:10568,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jasleen Kaur Cheema{12324}	ST Rate	Regular Pay	81.0		E_NUM:12324,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jasleen Kaur Cheema{12324}	PH Hours	Public Holiday	7.2		E_NUM:12324,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jasmine Kaur{11636}	ST Rate	Regular Pay	80.5		E_NUM:11636,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jasmine Kaur{11636}	PH Hours	Public Holiday	7.2		E_NUM:11636,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Jasmine Kaur{11636}	STAT Hours	Stat Day Worked	6.5		E_NUM:11636,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Lucille Abner{13507}	ST Rate	Regular Pay	53.5		E_NUM:13507,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Lucille Abner{13507}	PH Hours	Public Holiday	5.8		E_NUM:13507,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Lucille Abner{13507}	STAT Hours	Stat Day Worked	5.0		E_NUM:13507,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Manpreet Kaur Sidhu{7590}	ST Rate	Regular Pay	50.5		E_NUM:7590,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Manpreet Kaur Sidhu{7590}	PH Hours	Public Holiday	6.7		E_NUM:7590,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Manpreet Kaur Sidhu{7590}	STAT Hours	Stat Day Worked	9.0		E_NUM:7590,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Marifel Landayan Gatchalian{2255}	ST Rate	Regular Pay	70.5		E_NUM:2255,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Marifel Landayan Gatchalian{2255}	PH Hours	Public Holiday	6.9		E_NUM:2255,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Marifel Landayan Gatchalian{2255}	STAT Hours	Stat Day Worked	8.0		E_NUM:2255,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Niko Silang{12340}	ST Rate	Regular Pay	66.0		E_NUM:12340,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Niko Silang{12340}	PH Hours	Public Holiday	7.6		E_NUM:12340,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Niko Silang{12340}	STAT Hours	Stat Day Worked	6.5		E_NUM:12340,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sanampreet Minhas{11654}	ST Rate	Regular Pay	69.0		E_NUM:11654,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sanampreet Minhas{11654}	PH Hours	Public Holiday	6.6		E_NUM:11654,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Shubham Garg{8530}	ST Rate	Regular Pay	24.0		E_NUM:8530,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Shubham Garg{8530}	PH Hours	Public Holiday	4.5		E_NUM:8530,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Simran Dhillon{12477}	ST Rate	Regular Pay	26.5		E_NUM:12477,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Simran Dhillon{12477}	PH Hours	Public Holiday	4.4		E_NUM:12477,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sourav Kumar{12658}	ST Rate	Regular Pay	74.5		E_NUM:12658,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sourav Kumar{12658}	PH Hours	Public Holiday	7.9		E_NUM:12658,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Sourav Kumar{12658}	STAT Hours	Stat Day Worked	8.5		E_NUM:12658,EMP_TYPE:ON	Y	1

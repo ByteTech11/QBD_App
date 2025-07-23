@@ -99,11 +99,17 @@ def convert_excel_to_iif(excel_file, output_iif_path):
             )
         if stat_hours > 0:
             iif_data.append(
-                f"TIMEACT\t{formatted_date}\tDefault Job\t{emp}\tSTAT Hours\tStat Holiday\t{stat_hours}\t\t{note}\tY\t1"
+                f"TIMEACT\t{formatted_date}\tDefault Job\t{emp}\tSTAT Hours\tStat Day Worked\t{stat_hours}\t\t{note}\tY\t1"
             )
     iif_content = "\n".join(iif_data)
 
     with open(output_iif_path, 'w') as f:
         f.write(iif_content)
-    print(f"IIF file successfully created: {output_iif_path}")
+    print(f"IIF file successfully Created: {output_iif_path}")
     return output_iif_path
+
+
+
+                                    
+
+

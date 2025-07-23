@@ -1,0 +1,27 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Akash Kadavil Prasad{12316}	ST Rate	Regular Pay	53.25		E_NUM:12316,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Akash Kadavil Prasad{12316}	PH Hours	Public Holiday	14.1		E_NUM:12316,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Anjita Ojha{12179}	ST Rate	Regular Pay	47.0		E_NUM:12179,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Anjita Ojha{12179}	PH Hours	Public Holiday	14.4		E_NUM:12179,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Bharat Parajuli{12176}	ST Rate	Regular Pay	80.0		E_NUM:12176,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Bharat Parajuli{12176}	PH Hours	Public Holiday	12.8		E_NUM:12176,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Bharat Parajuli{12176}	STAT Hours	Stat Day Worked	8.0		E_NUM:12176,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Dalveen Kaur{14266}	PH Hours	Public Holiday	5.1		E_NUM:14266,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Dalveen Kaur{14266}	STAT Hours	Stat Day Worked	7.5		E_NUM:14266,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Karina Bhaila{12178}	ST Rate	Regular Pay	37.25		E_NUM:12178,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Karina Bhaila{12178}	PH Hours	Public Holiday	13.0		E_NUM:12178,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Karina Bhaila{12178}	STAT Hours	Stat Day Worked	4.75		E_NUM:12178,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Lino John{14267}	ST Rate	Regular Pay	88.0		E_NUM:14267,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Lino John{14267}	PH Hours	Public Holiday	9.2		E_NUM:14267,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Maninder pal Mal{11768}	ST Rate	Regular Pay	72.25		E_NUM:11768,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Maninder pal Mal{11768}	PH Hours	Public Holiday	7.2		E_NUM:11768,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Maninder pal Mal{11768}	STAT Hours	Stat Day Worked	11.0		E_NUM:11768,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Nouman Muhammad{8170}	ST Rate	Regular Pay	75.0		E_NUM:8170,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Nouman Muhammad{8170}	PH Hours	Public Holiday	13.4		E_NUM:8170,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Nouman Muhammad{8170}	STAT Hours	Stat Day Worked	9.5		E_NUM:8170,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Shakawath Hussain{10371}	ST Rate	Regular Pay	48		E_NUM:10371,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Shakawath Hussain{10371}	PH Hours	Public Holiday	14.0		E_NUM:10371,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Zain Mirza{1578}	ST Rate	Regular Pay	55.0		E_NUM:1578,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Zain Mirza{1578}	PH Hours	Public Holiday	6.0		E_NUM:1578,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Zain Mirza{1578}	STAT Hours	Stat Day Worked	5.0		E_NUM:1578,EMP_TYPE:ON	Y	1

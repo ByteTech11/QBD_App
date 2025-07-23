@@ -1,0 +1,18 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+
+TIMEACT	07/11/2025	Default Job	Adam Avery Goldie Wilson{10168}	ST Rate	Regular Pay	15.0		E_NUM:10168,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Adam Avery Goldie Wilson{10168}	PH Hours	Public Holiday	1.7		E_NUM:10168,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Brijesh Brijesh{14046}	ST Rate	Regular Pay	74.17		E_NUM:14046,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Brijesh Brijesh{14046}	PH Hours	Public Holiday	7.0		E_NUM:14046,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Fareeda Herschfeldt{6939}	ST Rate	Regular Pay	34.0		E_NUM:6939,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Fareeda Herschfeldt{6939}	PH Hours	Public Holiday	4.0		E_NUM:6939,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Fareeda Herschfeldt{6939}	STAT Hours	Stat Day Worked	5.25		E_NUM:6939,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Gurpinder Singh{12831}	ST Rate	Regular Pay	23.5		E_NUM:12831,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Gurpinder Singh{12831}	PH Hours	Public Holiday	3.2		E_NUM:12831,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Jobanjot Singh Mandair{12348}	ST Rate	Regular Pay	48		E_NUM:12348,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Jobanjot Singh Mandair{12348}	PH Hours	Public Holiday	6.5		E_NUM:12348,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Jobanjot Singh Mandair{12348}	STAT Hours	Stat Day Worked	6.25		E_NUM:12348,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Kuljeet Kaur{14388}	ST Rate	Regular Pay	33.5		E_NUM:14388,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Kuljeet Kaur{14388}	PH Hours	Public Holiday	4.1		E_NUM:14388,EMP_TYPE:IS	Y	1
+TIMEACT	07/11/2025	Default Job	Melissa Douangkham{6620}	ST Rate	Regular Pay	22.08		E_NUM:6620,EMP_TYPE:ON	Y	1
+TIMEACT	07/11/2025	Default Job	Melissa Douangkham{6620}	PH Hours	Public Holiday	3.4		E_NUM:6620,EMP_TYPE:ON	Y	1
